@@ -1,5 +1,3 @@
-# Heap-overflow
-
 # Introduction
 This code show an attack by heap overflow.
 
